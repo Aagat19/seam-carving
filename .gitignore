@@ -1,0 +1,4 @@
+seam_carving
+seam_carving.exe
+*.o
+output.jpg
